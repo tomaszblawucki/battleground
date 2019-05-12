@@ -1,0 +1,2 @@
+model_checkpoint_path: "moj_model_szeregow_czasowych"
+all_model_checkpoint_paths: "moj_model_szeregow_czasowych"

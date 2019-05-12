@@ -1,0 +1,3 @@
+model_checkpoint_path: "sine_forecaster.ckpt"
+all_model_checkpoint_paths: "../moj_model_szeregow_czasowych"
+all_model_checkpoint_paths: "sine_forecaster.ckpt"
